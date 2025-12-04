@@ -1,0 +1,22 @@
+{
+  "cancer": {
+    "model_name": "XGBoost",
+    "primary_metric": "PR-AUC",
+    "pr_auc": 0.05047527615446773,
+    "roc_auc": 0.6057062146892654,
+    "f1_score": 0.13513513513513514,
+    "precision": 0.11235955056179775,
+    "recall": 0.1694915254237288,
+    "specificity": 0.9648888888888889
+  },
+  "repro": {
+    "model_name": "Random_Forest",
+    "primary_metric": "ROC-AUC",
+    "roc_auc": 0.7054703832752612,
+    "pr_auc": 0.3359398807517189,
+    "f1_score": 0.36220472440944884,
+    "precision": 0.34328358208955223,
+    "recall": 0.38333333333333336,
+    "specificity": 0.8904927824788452
+  }
+}

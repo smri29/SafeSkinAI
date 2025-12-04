@@ -1,0 +1,46 @@
+Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+OS Generated
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+VS Code
+
+.vscode/
+*.code-workspace
+
+Streamlit
+
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+Project Artifacts
+
+We ignore the zip source, but KEEP the extracted .pkl and .json files
+
+so the app works when deployed to Streamlit Cloud.
+
+app_artifacts.zip
+
+If your model files are >100MB, uncomment the lines below
+
+and look into Git LFS (Large File Storage).
+
+*.pkl

@@ -1,0 +1,28 @@
+{
+  "descriptor_names": [
+    "MolWt",
+    "LogP",
+    "TPSA",
+    "NumHDonors",
+    "NumHAcceptors",
+    "NumRotatableBonds",
+    "NumAromaticRings",
+    "NumAliphaticRings",
+    "NumSaturatedRings",
+    "RingCount",
+    "NumHeteroatoms",
+    "FractionCSP3",
+    "BertzCT",
+    "HallKierAlpha",
+    "Kappa1",
+    "Kappa2",
+    "Kappa3",
+    "NumRadicalElectrons",
+    "NumValenceElectrons",
+    "MolMR",
+    "LipinskiViolations"
+  ],
+  "fingerprint_length": 2048,
+  "cancer_algo": "xgboost",
+  "repro_algo": "random_forest"
+}
