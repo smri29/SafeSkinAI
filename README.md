@@ -40,8 +40,8 @@ VS Code (recommended)
 
 1. Clone the Repository
 
-git clone [https://github.com/your-username/safeskin-ai.git](https://github.com/your-username/safeskin-ai.git)
-cd safeskin-ai
+git clone [https://github.com/smri29/SafeSkinAI.git](https://github.com/your-username/SafeSkinAI.git)
+cd SafeSkinAI
 
 
 2. Install Dependencies
@@ -109,4 +109,4 @@ Validation: Models achieved rigorous validation scores (see "Project Intelligenc
 
 SafeSkin AI is a predictive research tool. While it achieves high statistical accuracy based on historical data, in silico predictions should not replace standardized laboratory testing or regulatory safety assessments.
 
-Developed by Shah Mohammad Rizvi SafeSkin AI v2.0 | Powered by Streamlit, RDKit & Plotly
+Developed by Shah Mohammad Rizvi | SafeSkin AI v2.0 | Powered by Streamlit, RDKit & Plotly
