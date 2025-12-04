@@ -42,5 +42,3 @@ app_artifacts.zip
 If your model files are >100MB, uncomment the lines below
 
 and look into Git LFS (Large File Storage).
-
-*.pkl
