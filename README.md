@@ -4,6 +4,17 @@ The Premium Standard for Cosmetic Safety Intelligence
 
 SafeSkin AI is a cutting-edge computational toxicology application designed to screen cosmetic ingredients for hidden health risks. Leveraging a rigorously curated database of over 11,500 chemical structures, it utilizes advanced ensemble machine learning to predict Carcinogenicity and Reproductive Toxicity in real-time.
 
+📸 App Interface
+
+<p align="center">
+<img src="SafeSkin%20AI%2001.png" width="45%" />
+<img src="SafeSkin%20AI%2002.png" width="45%" />
+</p>
+<p align="center">
+<img src="SafeSkin%20AI%2003.png" width="45%" />
+<img src="SafeSkin%20AI%2004.png" width="45%" />
+</p>
+
 ✨ v2.0 Features
 
 💎 Premium Glassmorphism UI: A sophisticated "Deep Ocean" aesthetic featuring translucent glass cards, dynamic gradients, and smooth animations.
@@ -40,7 +51,7 @@ VS Code (recommended)
 
 1. Clone the Repository
 
-git clone [https://github.com/smri29/SafeSkinAI.git](https://github.com/your-username/SafeSkinAI.git)
+git clone [https://github.com/smri29/SafeSkinAI.git](https://github.com/smri29/SafeSkinAI.git)
 cd SafeSkinAI
 
 
@@ -80,6 +91,10 @@ safeskin-ai/
 ├── scaler.pkl            # StandardScaler object for feature normalization
 ├── app_metadata.json     # Feature mapping configuration
 ├── model_stats.json      # Validation metrics (AUC/Accuracy)
+├── SafeSkin AI 01.png    # Screenshot
+├── SafeSkin AI 02.png    # Screenshot
+├── SafeSkin AI 03.png    # Screenshot
+├── SafeSkin AI 04.png    # Screenshot
 └── README.md             # Documentation
 
 
